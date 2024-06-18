@@ -1,0 +1,1 @@
+"use strict";window.app=/Chrome/.test(navigator.userAgent)?chrome:browser;$(function(){window.daiizGyazo.manage.install().then(function(projectName){window.daiizGyazo.textBubble.enable(projectName)})});
